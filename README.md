@@ -10,3 +10,4 @@ In the case of Marketing, the task was to identify the following:
 In Investor metrics, the focus was :
 •	To find how many times the average user posts on Instagram and to provide the total number of photos / total number of users on Instagram.  
 •	The task ends by finding Bots or Fake accounts, and as in this case, the work was to identify the accounts that have liked every single picture on the site.
+https://tome.app/trainity/instagram-user-analytics-cleojciez00r61asgu23t3i9x
